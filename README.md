@@ -20,8 +20,9 @@ required componets
  
  ### the concept
  ---
- the main concept of this board is only 
+ the main concept of this board is only using very accessible and cheap components and tools.
+ i don't have a 3d pri
  my tools where very limited , so i had to cy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDQwNTAzOSw2NDkyMTc4NDBdfQ==
+eyJoaXN0b3J5IjpbLTEzNDE4MzkyNzMsNjQ5MjE3ODQwXX0=
 -->
