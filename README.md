@@ -20,7 +20,8 @@ required componets
  
  ### the concept
  ---
- m
+ the main concept of this board is only 
+ my tools where very limited , so i had to cy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTAyOTg1NDgsNjQ5MjE3ODQwXX0=
+eyJoaXN0b3J5IjpbLTg5MDQwNTAzOSw2NDkyMTc4NDBdfQ==
 -->
