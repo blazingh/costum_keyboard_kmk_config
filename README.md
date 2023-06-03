@@ -16,6 +16,11 @@ required componets
  - 18 pin headers
  - 8 bolts and nuts
  - some  wires 
+ - patiance
+ 
+ ### the concept
+ ---
+ m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5MjE3ODQwXX0=
+eyJoaXN0b3J5IjpbLTE5OTAyOTg1NDgsNjQ5MjE3ODQwXX0=
 -->
