@@ -21,11 +21,11 @@ required componets
  ### the concept
  ---
  the main concept of this board is only using very accessible and cheap components and tools.
- I don't have a 3d printer nor i orderd costume pcb.
+ I don't have a 3d printer nor i orderd a costume pcb.
  I ordered the chepest components and tools i could find.
  the reason is i very much liked the idea of a split ergonomic keyboard , but as you can guess ordering a kit a or a pre built one war very expesive for me.
- I didn't find anyone who buint one in this way , so i'm making this documentation hopping it could help or ispire someone else.
+ I didn't find anyone who built one in this way , so i'm making this documentation hopping it could help or isnpire other people.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2NjcxNDcwLDY0OTIxNzg0MF19
+eyJoaXN0b3J5IjpbMjA0NTk1NDg4NSw2NDkyMTc4NDBdfQ==
 -->
