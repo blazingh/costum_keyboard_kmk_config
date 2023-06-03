@@ -16,3 +16,6 @@ required componets
  - 18 pin headers
  - 8 bolts and nuts
  - some  wires 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjQ5MjE3ODQwXX0=
+-->
