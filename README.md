@@ -21,8 +21,9 @@ required componets
  ### the concept
  ---
  the main concept of this board is only using very accessible and cheap components and tools.
- i don't have a 3d pri
+ i don't have a 3d printer nor i orderd costume pcb.
+ i ordered the chepest components ab
  my tools where very limited , so i had to cy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDE4MzkyNzMsNjQ5MjE3ODQwXX0=
+eyJoaXN0b3J5IjpbMTY2MTYxMzUxLDY0OTIxNzg0MF19
 -->
