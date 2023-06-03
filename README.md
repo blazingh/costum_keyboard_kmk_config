@@ -22,8 +22,9 @@ required componets
  ---
  the main concept of this board is only using very accessible and cheap components and tools.
  i don't have a 3d printer nor i orderd costume pcb.
- i ordered the chepest components ab
+ i ordered the chepest components and tools i could find.
+ the reason is i very much liked the idea of a split ergonomic k
  my tools where very limited , so i had to cy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTYxMzUxLDY0OTIxNzg0MF19
+eyJoaXN0b3J5IjpbMTkzNDA2NzA3OSw2NDkyMTc4NDBdfQ==
 -->
