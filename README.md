@@ -24,8 +24,8 @@ required componets
  I don't have a 3d printer nor i orderd costume pcb.
  I ordered the chepest components and tools i could find.
  the reason is i very much liked the idea of a split ergonomic keyboard , but as you can guess ordering a kit a or a pre built one war very expesive for me.
- I didn't find anyone who buint one in this way , so i'm hopping  
- my tools where very limited , so i had to cy
+ I didn't find anyone who buint one in this way , so i'm making this documentation hopping it could help or ispire someone else.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzU5NzE5Nyw2NDkyMTc4NDBdfQ==
+eyJoaXN0b3J5IjpbOTA2NjcxNDcwLDY0OTIxNzg0MF19
 -->
